@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.84140562.css",
+    "main.js": "/my_portfolio/static/js/main.399d6e35.js",
+    "static/js/787.128fc6e9.chunk.js": "/my_portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Bedrani_Sidali_CV.pdf": "/my_portfolio/static/media/Bedrani_Sidali_CV.47098826056a1a311819.pdf",
+    "static/media/hero.png": "/my_portfolio/static/media/hero.400f97a1924d48b212e4.png",
+    "index.html": "/my_portfolio/index.html",
+    "main.84140562.css.map": "/my_portfolio/static/css/main.84140562.css.map",
+    "main.399d6e35.js.map": "/my_portfolio/static/js/main.399d6e35.js.map",
+    "787.128fc6e9.chunk.js.map": "/my_portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84140562.css",
+    "static/js/main.399d6e35.js"
+  ]
+}
